@@ -6,4 +6,4 @@ The guide is centered around the FIVPS2 revision but should be applicable to the
 
 Any additions/corrections or suggestions for the guide are welcome, please open an issue.
 
-A video series on repairing the T1600 PSU starts at https://www.youtube.com/watch?v=K_-vP0P0AxU
+A video series on repairing the T1600 PSU is available as a [YouTube playlist](https://www.youtube.com/watch?v=K_-vP0P0AxU&list=PLXY7XbO7YdwLhnscMaUnbzDl_B9whS41a&index=1)
